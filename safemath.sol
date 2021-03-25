@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-// SPDX-License-Identifier: MIT
+
 //pragma solidity ^0.4.25;
 //0.8.0 开始，算术运算有两个计算模式：一个是 “wrapping”（截断）模式或称 “unchecked”（不检查）模式，一个是”checked” 
 //（检查）模式。 默认情况下，算术运算在 “checked” 模式下，即都会进行溢出检查，如果结果落在取值范围之外，调用会通过失败
